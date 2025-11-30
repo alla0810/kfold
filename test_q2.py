@@ -3,7 +3,7 @@
 from sklearn.datasets import load_digits
 import numpy as np
 
-from q2 import get_model, my_train_test
+from homework2_q2 import get_model, my_train_test
 
 
 def main():

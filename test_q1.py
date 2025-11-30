@@ -3,7 +3,7 @@
 from sklearn.datasets import load_digits
 import numpy as np
 
-from q1 import get_model, get_splits, my_cross_val
+from homework2_q1 import get_model, get_splits, my_cross_val
 
 
 def main():

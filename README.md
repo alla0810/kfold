@@ -22,8 +22,8 @@ These are created through a unified `get_model(method)` function.
 
 | File | Description |
 |------|-------------|
-| `q1.py` | Implements K-fold validation: `get_model`, `get_splits`, `my_cross_val`. |
-| `q2.py` | Implements random train–test splits: `get_model`, `my_train_test`. |
+| `homework2_q1.py` | Implements K-fold validation: `get_model`, `get_splits`, `my_cross_val`. |
+| `homework2_q2.py` | Implements random train–test splits: `get_model`, `my_train_test`. |
 | `test_q1.py` | Local tester for K-fold validation. |
 | `test_q2.py` | Local tester for train–test validation. |
 
